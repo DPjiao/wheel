@@ -1,0 +1,3 @@
+# java数据库操作工具包
+JDBCDataSources.properties是数据库配置文件在springboot项目中,放在resources根目录下
+util是代码包
